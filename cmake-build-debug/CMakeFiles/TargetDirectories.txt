@@ -1,0 +1,3 @@
+/home/naran/laba_02_timp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/naran/laba_02_timp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/naran/laba_02_timp/cmake-build-debug/CMakeFiles/laba_02_timp.dir
